@@ -1,0 +1,1 @@
+The source code of the Fibernavigator is now available on the [Fibernavigator Github project page](https://github.com/scilus/fibernavigator).

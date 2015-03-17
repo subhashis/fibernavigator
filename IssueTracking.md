@@ -1,0 +1,1 @@
+Old issues have been migrated to the [Fibernavigator Github issues page](https://github.com/scilus/fibernavigator/issues).
